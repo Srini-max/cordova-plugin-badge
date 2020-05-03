@@ -1,0 +1,41 @@
+﻿{
+  "name": "cordova-plugin-badge",
+  "version": "0.8.8",
+  "description": "Shows the count of unread messages as a badge on the app icon.",
+  "cordova": {
+    "id": "cordova-plugin-badge",
+    "platforms": [
+      "ios",
+      "android",
+      "browser"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "badge",
+    "shortcutbadger"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=6.0.0"
+    },
+    {
+      "name": "apple-ios",
+      "version": ">=10.0.0"
+    },
+    {
+      "name": "cordova-android",
+      "version": ">=4"
+    }
+  ],
+  "author": "",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
